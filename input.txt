@@ -1,0 +1,14 @@
+7
+00000000   AAA  BBB            70  60  9 1 7
+12345678   Mokhtar   Aboelaze   100 80 10 9 8
+23456789   Mohamed   Aboelaze   95  77 8 8 8
+45678901   John Doe 56 23 3 6 9
+56789012   Jane Doe 86 23 5 8 9
+98765432  XXX  yyy  56 23 4 8 6
+x3456789   Mxhamed   Axoelaze   100  80 10 8 9
+F
+top
+PerA
+A
+Anomaly
+q
